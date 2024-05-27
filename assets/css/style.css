@@ -2,12 +2,17 @@
 body {
     margin: 0;
     padding: 0;
+    display: flex;
 
 }
 header {
-    background-color: lightblue;
+    background: url("../images/solar\ system.jpg");
+    padding: 0;
     margin: 0 ;
-}
+    position: fixed; 
+    justify-content: baseline;
+
+}   
     #nav {
         margin: 0;
 
